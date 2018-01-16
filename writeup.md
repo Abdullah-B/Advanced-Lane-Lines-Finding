@@ -43,7 +43,7 @@ and we get
 
 	* The output cluster information is then used to calculate the curvature and determine the distance the car is away from the center of the lane(negative being to the left, positive to the right).
 
-	The information is then compiled into one image and the lane detected + the curvature and distance information is draw onto the final result and compiled into a video out(see output_videos folder)
+	The information is then compiled into one image and the lane detected + the curvature and distance information is draw onto the final result and compiled into a video out(see project_video_output.mp4)
 		
 	![alt text][image7]	
 
